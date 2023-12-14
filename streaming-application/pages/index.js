@@ -39,11 +39,11 @@ export default function Home() {
   return (
     <div className="flex flex-col md:px-12 px-0 relative bg-background font-poppins items-center min-h-screen">
       <h1 className="text-6xl font-bold text-primary mt-20">
-        <span className="text-active">Streaming</span> Availability
+        <span className="text-active">Streaming</span> Application
       </h1>
       <h2 className="text-primary text-2xl font-light mt-6 font-ebas">
         Get Streaming details of Movie and TV Shows from 150+ Streaming
-        platforms
+        platforms.
       </h2>
       <form
         className="sm:mx-auto mt-20 justify-center sm:w-full sm:flex"
@@ -77,7 +77,7 @@ export default function Home() {
         <div className="mt-10">
           <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {searchResults
-              .filter((item) => item.imageurl && item.imageurl[0]) // Remove results with no images
+              .filter((item) => item.imageurl && item.imageurl[0])
               .map((item) => (
                 <div key={item.title} className="pt-6">
                   <div className="flow-root bg-light rounded-lg px-4 pb-8">
