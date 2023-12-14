@@ -51,34 +51,34 @@ For this project, I intend to leverage `Next.js` for the client-side development
 
 ## The UI:
 
-Generate a `Next.js` boilerplate with integrated `TailwindCSS` Through running the following command in the terminal:
+  + Generate a `Next.js` boilerplate with integrated `TailwindCSS` Through running the following command in the terminal:
 
-```bash
-npx create-next-app -e with-tailwindcss streaming-application
-```
+    ```bash
+    npx create-next-app -e with-tailwindcss streaming-application
+    ```
 
-After installation, navigate to the created `streaming-application` folder in your preferred code editor.
+  + After installation, navigate to the created `streaming-application` folder in your preferred code editor.
 
 ## Project Structure
 
 The project folder includes the following components:
 
-`pages directory:` Contains the `index.js` file, serving as the entry point or home page of the app. Additionally, 
+  + `pages directory:` Contains the `index.js` file, serving as the entry point or home page of the app. Additionally, 
 it includes `_app.js` and an `api` directory to store API requests.
 
-`public directory:` Holds assets, allowing placement of static files for later use in the application.
+  + `public directory:` Holds assets, allowing placement of static files for later use in the application.
 
-`package.json` and `package-lock.json:` Contain project metadata and track installed package versions, respectively.
+  + `package.json` and `package-lock.json:` Contain project metadata and track installed package versions, respectively.
 
-`postcss.config.js:` Includes PostCSS configurations for styling.
+  + `postcss.config.js:` Includes PostCSS configurations for styling.
 
-`tailwind.config.js:` Contains TailwindCSS configurations, including color settings.
+  + `tailwind.config.js:` Contains TailwindCSS configurations, including color settings.
 
 ## How To Run The project
 
 [Image]
 
-Live Preview
++ [x] Live Preview
 [add deployment Link]
 
 + [x] Features
