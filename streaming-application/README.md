@@ -9,6 +9,7 @@
   
 + [Javascript Framework](https://nextjs.org/)
 
+
 ## skill set
 
 + Group project
@@ -32,6 +33,21 @@ this tech-skills at hand, I will be able to help other developers build a Stream
 from the selected API through API Hub. A versatile approach  for the creation of dynamic and user-friendly
 applications for checking content availability across various streaming services.
 
+## Objective of the Project
+
++ to Get Streaming details of Movie and TV Shows. We support 150+ Streaming platforms in US and India such as
+  +  `HBO,`
+  +  `YouTube,`
+  +  `Netflix,`
+  +  `Primve Video,`
+  +  `Hotstar,`
+  +  `Hulu, etc .`
+  +  
++  Moreover, I'Have used the given OTT Providers endpoint to get the full list OTT providers we support In additon to streaming info
+on any given movie title.
+
+Flix OTT Details : Get the BIGGEST Movie and TV show API in the internet.
+
 ## Technology Stack
 
 + For this project, I intend to leverage `Next.js` for the client-side development and `TailwindCSS` for styling.
@@ -48,6 +64,14 @@ applications for checking content availability across various streaming services
   + Choose any API based on preferences.
     + To use the selected API,
       + subscribe to it by clicking on the "Subscribe to Test" button.
+     
+
+## API
+
+[RapidAPI](https://rapidapi.com/gox-ai-gox-ai-default/api/ott-details/)
+
+![image](https://github.com/kelvin-thegreat/Webstack_portfolio_project_streaming_availability/assets/71261868/56e8a090-caea-46b4-a942-899b98d01068)
+
 
 ## The UI
 
