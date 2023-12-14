@@ -63,10 +63,10 @@ applications for checking content availability across various streaming services
 
   + The project folder includes the following components:
 
-    + `pages directory:` Contains the `index.js` file, serving as the entry point or home page of the app. Additionally, 
+    + [pages directory](pages) Contains the `index.js` file, serving as the entry point or home page of the app. Additionally, 
   it includes `_app.js` and an `api` directory to store API requests.
   
-    + `public directory:` Holds assets, allowing placement of static files for later use in the application.
+    + [public directory](public) Holds assets, allowing placement of static files for later use in the application.
   
     + `package.json` and `package-lock.json:` Contain project metadata and track installed package versions, respectively.
   
