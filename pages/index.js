@@ -146,12 +146,12 @@ export default function Home() {
 
       <div className="mt-20 mb-10 text-center">
         <p className="text-primary text-xs">
-          Made by RapidAPI DevRel Team -{" "}
+          Made by kelvin Ouma, ALX -{" "}
           <a
             className="hover:text-active"
-            href="https://github.com/RapidAPI/DevRel-Examples-External"
+            href="https://github.com/kelvin-thegreat"
           >
-            See more examples like this
+            See more Projects
           </a>
         </p>
       </div>
