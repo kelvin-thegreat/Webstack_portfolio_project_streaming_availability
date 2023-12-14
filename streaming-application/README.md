@@ -100,11 +100,12 @@ Flix OTT Details : Get the BIGGEST Movie and TV show API in the internet.
 
 ## How To Run The project
 
-Before Streaming 
+
+  + Before Streaming 
 
 ![image](https://github.com/kelvin-thegreat/Webstack_portfolio_project_streaming_availability/assets/71261868/de8dadc1-9e62-41dc-b91d-a14c76a18dc5)
 
-After Streaming
+  + After Streaming
 
 ![image](https://github.com/kelvin-thegreat/Webstack_portfolio_project_streaming_availability/assets/71261868/d8ea0050-88a0-44db-b62b-c08119b08e27)
 
