@@ -73,17 +73,21 @@ applications for checking content availability across various streaming services
 
 ## How to use
 
-    + Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with 
 
-```bash
-npx create-next-app --tailwind with-tailwindcss-app
-```
+[npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or 
 
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
+[pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
 
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+  ```bash
+  npx create-next-app --tailwind with-tailwindcss-app
+  ```
+  
+  ```bash
+  yarn create next-app --tailwind with-tailwindcss-app
+  ```
+  
+  ```bash
+  pnpm create next-app --tailwind with-tailwindcss-app
+  ```
 
