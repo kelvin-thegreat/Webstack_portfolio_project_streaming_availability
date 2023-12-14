@@ -7,7 +7,7 @@ export default async function handler(req, res) {
     params: { title: req.query.title, page: "1" },
     headers: {
       "x-rapidapi-host": "ott-details.p.rapidapi.com",
-      "x-rapidapi-key": NEXT_PUBLIC_RAPIDAPI_KEY,
+      "x-rapidapi-key": "21f04ee643mshb9e4fb48585fbb0p1bc99bjsnea752ad2df7b",
     },
   };
 
@@ -17,4 +17,4 @@ export default async function handler(req, res) {
   } catch (error) {
     console.error(error.response);
   }
-}
+};
