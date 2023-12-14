@@ -2,23 +2,23 @@
 # WebStack Portfolio Project 
 ## Resources
 
-+ [API Hubs](https://rapidapi.com/hub)
-
-+ [ Tailwind CSS](https://tailwindcss.com/docs/installation)
-
-+ [Javascript Framework](https://nextjs.org/)
+  + [API Hubs](https://rapidapi.com/hub)
+  
+  + [ Tailwind CSS](https://tailwindcss.com/docs/installation)
+  
+  + [Javascript Framework](https://nextjs.org/)
 
 ## skill set
 
-+ Group project
-  
-+ Front-end
-  
-+ Back-end
-  
-+ Portfolio project
+  + Group project
+    
+  + Front-end
+    
+  + Back-end
+    
+  + Portfolio project
 
-**Streaming Availability Application **
+**Streaming Availability Application**
 
 ## Introduction
 
